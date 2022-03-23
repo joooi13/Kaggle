@@ -1,6 +1,8 @@
 ## お題
 
-- Santa's Uncertain Bags
+- Santa's Uncertain Bags  
 https://www.kaggle.com/c/santas-uncertain-bags/
 
-## やったこと
+## アウトプットした
+【Kaggle】Titanicの先へ行きたい｜じょい｜note  
+https://note.com/joooi13/n/n6370363c1fd7
